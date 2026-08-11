@@ -93,6 +93,22 @@ msgctxt "#30022"
 msgid "Password missing"
 msgstr "Password mancanti"
 
+msgctxt "#30046"
+msgid "Login with Smart TV code on another device"
+msgstr "Accedi con il codice Smart TV su un altro dispositivo"
+
+msgctxt "#30047"
+msgid "Login with email & password"
+msgstr "Accedi con email e password"
+
+msgctxt "#30048"
+msgid "ARTE Smart TV Login"
+msgstr "Accesso a Smart TV ARTE"
+
+msgctxt "#30049"
+msgid "Enter the code \"{user_code}\" at \"{verification_uri}\" on your mobile device or computer."
+msgstr "Inserisci il codice \"{user_code}\" su \"{verification_uri}\" dal tuo dispositivo mobile o computer."
+
 
 msgctxt "#30023"
 msgid "Add to Arte favorites"
@@ -185,3 +201,18 @@ msgstr "{label} - Questo programma contiene scene sconsigliate ad un pubblico gi
 msgctxt "#30060"
 msgid "Play from the start"
 msgstr "Gioca dall'inizio"
+
+
+msgctxt "#30061"
+msgid "Version {version} installed successfully"
+msgstr "Versione {version} installata correttamente"
+
+msgctxt "#30062"
+msgid ""
+"Enjoy Arte videos on Kodi with Arte+7 {version}.\n"
+"Donations: https://thomas-ernest.github.io/\n"
+"Bugs or feature requests: https://github.com/thomas-ernest/plugin.video.arteplussept/issues"
+msgstr ""
+"Goditi i video di Arte su Kodi con Arte+7 {version}.\n"
+"Donazioni: https://thomas-ernest.github.io/\n"
+"Segnalazioni di bug o richieste: https://github.com/thomas-ernest/plugin.video.arteplussept/issues"
